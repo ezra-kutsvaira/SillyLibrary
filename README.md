@@ -1,1 +1,1 @@
-was trying to understand how static modifier works in Java
+was trying to understand how the static modifier works in Java
